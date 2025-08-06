@@ -1,0 +1,14 @@
+{
+    "filename": "abc.txt",
+    "dependencies": [
+        "Flask==3.1.0",
+        "requests==2.32.3",
+        "numpy==2.2.3",
+        "pandas==2.2.3",
+        "matplotlib==3.9.9"
+    ],
+    "outdated_libs": [
+        "matplotlib: Installed (3.9.9), Latest (3.10.1)"
+    ],
+    "illegal_libs": []
+}
