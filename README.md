@@ -1,9 +1,11 @@
 🧩 Software Dependency Auditor
 
 🔍 Overview
+
 Software Dependency Auditor is a web-based tool built using Python (Flask) that analyzes dependencies from a project's requirements.txt file. It helps developers maintain project health by identifying outdated, illegal, or restricted libraries and generating detailed reports for better dependency management.
 
 🚀 Features
+
 📁 Upload a requirements.txt file
 
 🔎 Detect outdated libraries by comparing installed and latest versions from PyPI
@@ -15,6 +17,7 @@ Software Dependency Auditor is a web-based tool built using Python (Flask) that 
 ⚡ Built using a simple and clean Flask web interface
 
 🧠 Tech Stack
+
 Layer	Technologies
 Frontend	HTML, CSS
 Backend	Python (Flask)
@@ -89,5 +92,7 @@ Add dark mode for UI
 🧑‍💻 Author
 
 Sonali Mudalagi
+
 🎓 4th Year Computer Science Engineering Student
+
 💡 Passionate about Python, AI, and Web Development
